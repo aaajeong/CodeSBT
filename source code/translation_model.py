@@ -180,7 +180,7 @@ class TranslationModel:
                 if self.pred_edits:
                     # first output is ops, second output is words
                     raw_hypothesis = ' '.join('_'.join(tokens) for tokens in zip(*trg_tokens))
-                    trg_tokens = utils.reverse_edits(src_tokens[0].split('\t')[1].split(), trg_tokens, fix=fix_edits)
+                    trg_tokens = utils.reverse_edits(src_tokens[0].split(), trg_tokens, fix=fix_edits)
                     trg_tokens = [token for token in trg_tokens if token not in utils._START_VOCAB]
                     # FIXME: char-level
                 else:
@@ -367,10 +367,10 @@ class TranslationModel:
                 hypotheses = data.splitlines()
             print("hypotheses:%d, references: %d" % (len(hypotheses), len(references)))
             # default scoring function is utils.bleu_score
-            avg_score = getattr(evaluation, score_function)(hypotheses, references)
+            score = getattr(evaluation, score_function)(hypotheses, references)
 
             # print scoring information
-            score_info = [prefix, 'avg_score={:.4f}'.format(avg_score)]
+            score_info = [prefix, 'avg_score={:.4f}'.format(score)]
 
             # if score_summary:
             #    score_info.append(score_summary)
@@ -560,7 +560,7 @@ class TranslationModel:
 
         with open(score_filename, 'w') as f:
             for score_, step_ in scores:
-                f.write('{:.2f} {}\n'.format(score_, step_))
+                f.write('{:.4f} {}\n'.format(score_, step_))
 
     def initialize(self, checkpoints=None, reset=False, reset_learning_rate=False, max_to_keep=1,
                    keep_every_n_hours=0, sess=None, use_transfer=False, api_params=None, **kwargs):

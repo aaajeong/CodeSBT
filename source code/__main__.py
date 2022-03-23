@@ -263,6 +263,8 @@ def main(args=None):
     with tf.Session(config=tf_config, graph=transfer_graph) as sess:
         utils.log('creating model')
         utils.log('using device: {}'.format(device))
+        # mirrored_strategy = tf.distribute.MirroredStrategy(devices=["/gpu:0", "/gpu:1", "/gpu:2", "/gpu:4"])
+
         with tf.device(device):
             if config.weight_scale:
                 if config.initializer == 'uniform':
@@ -275,7 +277,7 @@ def main(args=None):
             tf.get_variable_scope().set_initializer(initializer)
 
             # exempt from creating gradient ops
-            config.decode_only = decoding_mode
+            config.decode_only = decoding_mode   
             model = TranslationModel(**config)
 
         # count parameters
