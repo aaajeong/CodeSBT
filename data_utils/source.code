@@ -1,0 +1,1 @@
+public int entrySize ( Object key , Object value ) throws IllegalArgumentException { if ( value == Token . TOMBSTONE ) { return NUM_ ; } int size = HeapLRUCapacityController . this . getPerEntryOverhead ( ) ; size += sizeof ( key ) ; size += sizeof ( value ) ; return size ; }
