@@ -155,6 +155,8 @@ cython_debug/
 emse-data/
 emse-data(60-)/
 emse-data(sg)
+emse-data(original)
+emse-data(sbt_code)
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
