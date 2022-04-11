@@ -141,6 +141,6 @@ def get_ast(file_name, w):
 
 if __name__ == '__main__':
     # pre-process the source code: strings -> STR_, numbers-> NUM_, Booleans-> BOOL_
-    process_source(sys.argv[1], 'test.token.code')
+    process_source(sys.argv[1], 'source.code')
     # generate ast file for source code
-    get_ast('test.token.code', sys.argv[2])
+    get_ast('source.code', sys.argv[2])

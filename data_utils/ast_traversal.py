@@ -59,6 +59,6 @@ def get_sbtcode_structure(ast_file, out_file):
                 out.write(' '.join(ast_sbt) + '\n')
 
 
-# get_sbt_structure("test/test_ast.json", "test.token.ast")
+# get_sbt_structure("ast.json", "ast.sbt")
 
 get_sbtcode_structure("ast.json", "sbtcode.ast")
