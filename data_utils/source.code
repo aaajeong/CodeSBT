@@ -1,2 +1,3 @@
 public int entrySize ( Object key , Object value ) throws IllegalArgumentException { if ( value == Token . TOMBSTONE ) { return NUM_ ; } int size = HeapLRUCapacityController . this . getPerEntryOverhead ( ) ; size += sizeof ( key ) ; size += sizeof ( value ) ; return size ; }
 @ Override public int runCommand ( boolean mergeErrorIntoOutput , String ... commands ) throws IOException , InterruptedException { return runCommand ( mergeErrorIntoOutput , new ArrayList < String > ( Arrays . asList ( commands ) ) ) ; }
+public boolean needsRewrite ( ) { ASTNodeState state = state ( ) ; try { return BOOL_ ; } finally { } }
