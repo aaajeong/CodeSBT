@@ -61,4 +61,4 @@ def get_sbtcode_structure(ast_file, out_file):
 
 # get_sbt_structure("ast.json", "ast.sbt")
 
-get_sbtcode_structure("ast.json", "sbtcode.ast")
+get_sbtcode_structure("seCNN_ast.json", "seCNN.ast")

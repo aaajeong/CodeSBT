@@ -88,8 +88,8 @@ aggregation_method: sum # how to combine the attention contexts of multiple enco
 max_train_size: 0        # maximum size of the training data (0 for unlimited)
 max_dev_size: 0          # maximum size of the dev data
 max_test_size: 0         # maximum size of the test data
-data_dir: ../emse-data(sbt_code_hb)           # directory containing the training data
-model_dir: ../emse-data(sbt_code_hb)/model/hybrid
+data_dir: ../emse-data(simsbt_code_hb)           # directory containing the training data
+model_dir: ../emse-data(simsbt_code_hb)/model/hybrid
 train_prefix: train      # name of the training corpus
 script_dir: scripts      # directory where the scripts are kepts (in particular the scoring scripts)
 dev_prefix: test        # names of the development corpora
@@ -110,7 +110,7 @@ average: False           # like ensemble, but instead of averaging the log-probs
 pred_edits: False
 
 # general
-gpu_id: 0                # index of the GPU to use (starts at zero)
+gpu_id: 4                # index of the GPU to use (starts at zero)
 no_gpu: False            # run on CPU only
 allow_growth: True       # allow GPU memory allocation to change during runtime
 mem_fraction: 1.0        # maximum fraction of GPU memory to use

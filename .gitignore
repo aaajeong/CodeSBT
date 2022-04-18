@@ -159,6 +159,11 @@ emse-data(original)
 emse-data(sbt_code)
 emse-data(ast_only)
 emse-data(sbt_code_hb)
+graph_test
+data_seCNN
+emse-data(simsbt_code)
+emse-data(simsbt_code_hb)
+results/
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
