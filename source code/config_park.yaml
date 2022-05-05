@@ -110,7 +110,7 @@ average: False           # like ensemble, but instead of averaging the log-probs
 pred_edits: False
 
 # general
-gpu_id: 2                # index of the GPU to use (starts at zero)
+gpu_id: 0                # index of the GPU to use (starts at zero)
 no_gpu: False            # run on CPU only
 allow_growth: True       # allow GPU memory allocation to change during runtime
 mem_fraction: 1.0        # maximum fraction of GPU memory to use
