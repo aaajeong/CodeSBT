@@ -231,7 +231,6 @@ public boolean doesNotHaveIds (){
     BLEU: 38.17
     ```
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc0c72d7-0332-4dd8-a239-40e1510fa9a4/Untitled.png)
     
 
 ### 🦑 Hybrid - DeepCom(default)
@@ -350,16 +349,9 @@ public boolean doesNotHaveIds (){
     test avg_score=0.3806(**BLEU**)
     
     test 폴더 - avg_score:0.3820
-    
-    # 논문 결과
-    아래 표 참고
+
     ```
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3cad69f4-c860-4cc4-bf6c-6e63bc5e5db8/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c7f019d3-0c82-4ec9-abbc-6006f10365ee/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7458358c-70a2-4568-bb4f-0622dcd1d3f2/Untitled.png)
     
 
 ### 🦑 DeepCom(our model)
@@ -594,12 +586,7 @@ public boolean doesNotHaveIds (){
 
 ### 🦧 성능 비교 🦧
 
-|  | Deepcom | Deepcom
-(sbtcode) | H-Deepcom | H-Deepcom
-(sbtcode) | DeepCom
-(our model-sim SBTcode) | H-DeepCom
-(our model-sim SBTcode) | seCNN
-(default) | seTransformer |
+|  | Deepcom | Deepcom(sbtcode) | H-Deepcom | H-Deepcom(sbtcode) | DeepCom(our model-sim SBTcode) | H-DeepCom(our model-sim SBTcode) | seCNN(default) | seTransformer |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | BLEU | 0.2026 | 0.1626 | 0.3820 | 0.3798 | 0.2417 | 0.3849 | 0.32178 | 0.44359 |
 | METEOR | 0.3172 | 0.2741 | 0.5126 | 0.5105 | 0.3543 | 0.5164 |  |  |
