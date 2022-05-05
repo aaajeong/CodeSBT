@@ -1,0 +1,522 @@
+04/15 23:54:43 step 2000 epoch 1 learning rate 0.5 step-time 0.874 loss 63.973
+
+04/15 23:55:39   test eval: loss 50.33
+
+04/16 00:00:07 test avg_score=0.0601
+
+04/16 00:28:53 step 4000 epoch 2 learning rate 0.495 step-time 0.860 loss 47.431
+
+04/16 00:29:44   test eval: loss 43.33
+
+04/16 00:32:42 test avg_score=0.0879
+
+04/16 01:00:05 step 6000 epoch 2 learning rate 0.495 step-time 0.819 loss 42.555
+
+04/16 01:00:56   test eval: loss 40.90
+
+04/16 01:03:52 test avg_score=0.0937
+
+04/16 01:31:11 step 8000 epoch 3 learning rate 0.49 step-time 0.815 loss 39.179
+
+04/16 01:32:02   test eval: loss 38.08
+
+04/16 01:34:58 test avg_score=0.1253
+
+04/16 02:02:15 step 10000 epoch 3 learning rate 0.49 step-time 0.816 loss 36.910
+
+04/16 02:03:05   test eval: loss 35.67
+
+04/16 02:06:02 test avg_score=0.1366
+
+04/16 02:33:27 step 12000 epoch 4 learning rate 0.485 step-time 0.820 loss 34.630
+
+04/16 02:34:18   test eval: loss 34.03
+
+04/16 02:37:15 test avg_score=0.1612
+
+04/16 03:04:36 step 14000 epoch 5 learning rate 0.48 step-time 0.818 loss 33.302
+
+04/16 03:05:27   test eval: loss 33.14
+
+04/16 03:08:23 test avg_score=0.1712
+
+04/16 03:35:46 step 16000 epoch 5 learning rate 0.48 step-time 0.819 loss 31.435
+
+04/16 03:36:38   test eval: loss 32.13
+
+04/16 03:39:34 test avg_score=0.1826
+
+04/16 04:07:01 step 18000 epoch 6 learning rate 0.475 step-time 0.821 loss 30.325
+
+04/16 04:07:52   test eval: loss 31.35
+
+04/16 04:10:48 test avg_score=0.1985
+
+04/16 04:38:10 step 20000 epoch 6 learning rate 0.475 step-time 0.819 loss 29.198
+
+04/16 04:39:01   test eval: loss 30.37
+
+04/16 04:41:56 test avg_score=0.2111
+
+04/16 05:09:08 step 22000 epoch 7 learning rate 0.471 step-time 0.814 loss 28.064
+
+04/16 05:10:00   test eval: loss 30.01
+
+04/16 05:12:55 test avg_score=0.2213
+
+04/16 05:40:16 step 24000 epoch 7 learning rate 0.471 step-time 0.818 loss 27.488
+
+04/16 05:41:06   test eval: loss 29.21
+
+04/16 05:44:02 test avg_score=0.2307
+
+04/16 06:11:16 step 26000 epoch 8 learning rate 0.466 step-time 0.815 loss 25.994
+
+04/16 06:12:08   test eval: loss 29.01
+
+04/16 06:15:07 test avg_score=0.2323
+
+04/16 06:42:19 step 28000 epoch 9 learning rate 0.461 step-time 0.814 loss 25.927
+
+04/16 06:43:10   test eval: loss 28.89
+
+04/16 06:46:06 test avg_score=0.2468
+
+04/16 07:13:13 step 30000 epoch 9 learning rate 0.461 step-time 0.811 loss 24.424
+
+04/16 07:14:04   test eval: loss 28.32
+
+04/16 07:16:59 test avg_score=0.2475
+
+04/16 07:43:56 step 32000 epoch 10 learning rate 0.457 step-time 0.806 loss 24.111
+
+04/16 07:44:45   test eval: loss 28.02
+
+04/16 07:47:40 test avg_score=0.2609
+
+04/16 08:14:35 step 34000 epoch 10 learning rate 0.457 step-time 0.805 loss 23.424
+
+04/16 08:15:25   test eval: loss 27.98
+
+04/16 08:18:19 test avg_score=0.2629
+
+04/16 08:44:51 step 36000 epoch 11 learning rate 0.452 step-time 0.793 loss 22.612
+
+04/16 08:45:41   test eval: loss 27.97
+
+04/16 08:48:33 test avg_score=0.2701
+
+04/16 09:14:56 step 38000 epoch 11 learning rate 0.452 step-time 0.790 loss 22.446
+
+04/16 09:15:46   test eval: loss 27.53
+
+04/16 09:18:38 test avg_score=0.2679
+
+04/16 09:44:48 step 40000 epoch 12 learning rate 0.448 step-time 0.783 loss 21.177
+
+04/16 09:45:38   test eval: loss 27.34
+
+04/16 09:48:31 test avg_score=0.2856
+
+04/16 10:14:33 step 42000 epoch 13 learning rate 0.443 step-time 0.779 loss 21.360
+
+04/16 10:15:22   test eval: loss 27.62
+
+04/16 10:18:13 test avg_score=0.2889
+
+04/16 10:44:11 step 44000 epoch 13 learning rate 0.443 step-time 0.777 loss 20.117
+
+04/16 10:45:00   test eval: loss 27.08
+
+04/16 10:47:51 test avg_score=0.2887
+
+04/16 11:13:55 step 46000 epoch 14 learning rate 0.439 step-time 0.780 loss 20.046
+
+04/16 11:14:44   test eval: loss 27.07
+
+04/16 11:17:37 test avg_score=0.2961
+
+04/16 11:43:51 step 48000 epoch 14 learning rate 0.439 step-time 0.785 loss 19.523
+
+04/16 11:44:40   test eval: loss 26.84
+
+04/16 11:47:35 test avg_score=0.2969
+
+04/16 12:14:12 step 50000 epoch 15 learning rate 0.434 step-time 0.796 loss 18.853
+
+04/16 12:15:01   test eval: loss 26.94
+
+04/16 12:17:54 test avg_score=0.2996
+
+04/16 12:44:38 step 52000 epoch 15 learning rate 0.434 step-time 0.799 loss 18.974
+
+04/16 12:45:29   test eval: loss 26.83
+
+04/16 12:48:28 test avg_score=0.3019
+
+04/16 13:15:11 step 54000 epoch 16 learning rate 0.43 step-time 0.797 loss 17.770
+
+04/16 13:16:01   test eval: loss 26.91
+
+04/16 13:18:55 test avg_score=0.3086
+
+04/16 13:45:59 step 56000 epoch 17 learning rate 0.426 step-time 0.810 loss 18.007
+
+04/16 13:46:51   test eval: loss 27.29
+
+04/16 13:49:48 test avg_score=0.3135
+
+04/16 14:17:04 step 58000 epoch 17 learning rate 0.426 step-time 0.816 loss 17.121
+
+04/16 14:17:57   test eval: loss 26.79
+
+04/16 14:21:01 test avg_score=0.3125
+
+04/16 14:51:32 step 60000 epoch 18 learning rate 0.421 step-time 0.913 loss 16.965
+
+04/16 14:52:28   test eval: loss 27.41
+
+04/16 14:55:42 test avg_score=0.3196
+
+04/16 15:27:21 step 62000 epoch 18 learning rate 0.421 step-time 0.946 loss 16.746
+
+04/16 15:28:16   test eval: loss 26.92
+
+04/16 15:31:20 test avg_score=0.3204
+
+04/16 15:57:21 step 64000 epoch 19 learning rate 0.417 step-time 0.779 loss 16.049
+
+04/16 15:58:09   test eval: loss 27.17
+
+04/16 16:00:59 test avg_score=0.3263
+
+04/16 16:25:58 step 66000 epoch 19 learning rate 0.417 step-time 0.748 loss 16.331
+
+04/16 16:26:45   test eval: loss 26.73
+
+04/16 16:29:32 test avg_score=0.3206
+
+04/16 16:54:15 step 68000 epoch 20 learning rate 0.413 step-time 0.740 loss 15.224
+
+04/16 16:55:01   test eval: loss 27.21
+
+04/16 16:57:46 test avg_score=0.3263
+
+04/16 17:22:29 step 70000 epoch 21 learning rate 0.409 step-time 0.740 loss 15.566
+
+04/16 17:23:15   test eval: loss 27.45
+
+04/16 17:25:59 test avg_score=0.3316
+
+04/16 17:50:46 step 72000 epoch 21 learning rate 0.409 step-time 0.742 loss 14.830
+
+04/16 17:51:32   test eval: loss 27.14
+
+04/16 17:54:16 test avg_score=0.3322
+
+04/16 18:18:59 step 74000 epoch 22 learning rate 0.405 step-time 0.739 loss 14.711
+
+04/16 18:19:45   test eval: loss 27.99
+
+04/16 18:22:29 test avg_score=0.3354
+
+04/16 18:47:10 step 76000 epoch 22 learning rate 0.405 step-time 0.738 loss 14.584
+
+04/16 18:47:57   test eval: loss 27.21
+
+04/16 18:50:44 test avg_score=0.3339
+
+04/16 19:15:30 step 78000 epoch 23 learning rate 0.401 step-time 0.741 loss 14.030
+
+04/16 19:16:16   test eval: loss 27.69
+
+04/16 19:19:00 test avg_score=0.3364
+
+04/16 19:43:46 step 80000 epoch 23 learning rate 0.401 step-time 0.741 loss 14.330
+
+04/16 19:44:32   test eval: loss 27.40
+
+04/16 19:47:21 test avg_score=0.3417
+
+04/16 20:12:43 step 82000 epoch 24 learning rate 0.397 step-time 0.759 loss 13.336
+
+04/16 20:13:30   test eval: loss 28.03
+
+04/16 20:16:14 test avg_score=0.3406
+
+04/16 20:41:03 step 84000 epoch 25 learning rate 0.393 step-time 0.743 loss 13.646
+
+04/16 20:41:50   test eval: loss 28.50
+
+04/16 20:44:34 test avg_score=0.3438
+
+04/16 21:09:25 step 86000 epoch 25 learning rate 0.393 step-time 0.744 loss 13.103
+
+04/16 21:10:11   test eval: loss 28.03
+
+04/16 21:12:56 test avg_score=0.3442
+
+04/16 21:37:52 step 88000 epoch 26 learning rate 0.389 step-time 0.746 loss 13.007
+
+04/16 21:38:38   test eval: loss 28.69
+
+04/16 21:41:23 test avg_score=0.3466
+
+04/16 22:06:14 step 90000 epoch 26 learning rate 0.389 step-time 0.743 loss 12.972
+
+04/16 22:07:00   test eval: loss 28.02
+
+04/16 22:09:45 test avg_score=0.3489
+
+04/16 22:34:37 step 92000 epoch 27 learning rate 0.385 step-time 0.744 loss 12.383
+
+04/16 22:35:23   test eval: loss 28.67
+
+04/16 22:38:08 test avg_score=0.3506
+
+04/16 23:02:58 step 94000 epoch 27 learning rate 0.385 step-time 0.743 loss 12.834
+
+04/16 23:03:44   test eval: loss 27.97
+
+04/16 23:06:30 test avg_score=0.3506
+
+04/16 23:31:24 step 96000 epoch 28 learning rate 0.381 step-time 0.745 loss 11.825
+
+04/16 23:32:10   test eval: loss 28.73
+
+04/16 23:34:54 test avg_score=0.3511
+
+04/16 23:59:48 step 98000 epoch 29 learning rate 0.377 step-time 0.745 loss 12.167
+
+04/17 00:00:34   test eval: loss 29.48
+
+04/17 00:03:18 test avg_score=0.3540
+
+04/17 00:28:10 step 100000 epoch 29 learning rate 0.377 step-time 0.744 loss 11.788
+
+04/17 00:28:56   test eval: loss 28.85
+
+04/17 00:31:45 test avg_score=0.3545
+
+04/17 00:56:41 step 102000 epoch 30 learning rate 0.374 step-time 0.746 loss 11.614
+
+04/17 00:57:27   test eval: loss 29.43
+
+04/17 01:00:12 test avg_score=0.3555
+
+04/17 01:25:04 step 104000 epoch 30 learning rate 0.374 step-time 0.744 loss 11.739
+
+04/17 01:25:51   test eval: loss 28.64
+
+04/17 01:28:36 test avg_score=0.3549
+
+04/17 01:53:28 step 106000 epoch 31 learning rate 0.37 step-time 0.744 loss 11.116
+
+04/17 01:54:14   test eval: loss 29.44
+
+04/17 01:56:58 test avg_score=0.3547
+
+04/17 02:21:45 step 108000 epoch 32 learning rate 0.366 step-time 0.742 loss 11.569
+
+04/17 02:22:31   test eval: loss 29.74
+
+04/17 02:25:15 test avg_score=0.3575
+
+04/17 02:50:08 step 110000 epoch 32 learning rate 0.366 step-time 0.744 loss 10.704
+
+04/17 02:50:54   test eval: loss 29.69
+
+04/17 02:53:38 test avg_score=0.3593
+
+04/17 03:18:29 step 112000 epoch 33 learning rate 0.362 step-time 0.744 loss 11.020
+
+04/17 03:19:15   test eval: loss 30.28
+
+04/17 03:21:59 test avg_score=0.3602
+
+04/17 03:46:45 step 114000 epoch 33 learning rate 0.362 step-time 0.741 loss 10.714
+
+04/17 03:47:31   test eval: loss 29.73
+
+04/17 03:50:15 test avg_score=0.3585
+
+04/17 04:15:06 step 116000 epoch 34 learning rate 0.359 step-time 0.744 loss 10.537
+
+04/17 04:15:52   test eval: loss 30.26
+
+04/17 04:18:36 test avg_score=0.3598
+
+04/17 04:43:23 step 118000 epoch 34 learning rate 0.359 step-time 0.742 loss 10.710
+
+04/17 04:44:10   test eval: loss 29.86
+
+04/17 04:46:54 test avg_score=0.3667
+
+04/17 05:11:43 step 120000 epoch 35 learning rate 0.355 step-time 0.742 loss 10.104
+
+04/17 05:12:29   test eval: loss 30.24
+
+04/17 05:15:13 test avg_score=0.3625
+
+04/17 05:38:44 step 122000 epoch 36 learning rate 0.352 step-time 0.704 loss 10.539
+
+04/17 05:39:28   test eval: loss 31.09
+
+04/17 05:42:03 test avg_score=0.3635
+
+04/17 06:05:12 step 124000 epoch 36 learning rate 0.352 step-time 0.692 loss 9.845
+
+04/17 06:05:55   test eval: loss 30.28
+
+04/17 06:08:34 test avg_score=0.3638
+
+04/17 06:31:40 step 126000 epoch 37 learning rate 0.348 step-time 0.691 loss 10.066
+
+04/17 06:32:24   test eval: loss 31.52
+
+04/17 06:34:59 test avg_score=0.3634
+
+04/17 06:58:09 step 128000 epoch 37 learning rate 0.348 step-time 0.693 loss 9.864
+
+04/17 06:58:53   test eval: loss 30.44
+
+04/17 07:01:29 test avg_score=0.3675
+
+04/17 07:24:35 step 130000 epoch 38 learning rate 0.345 step-time 0.691 loss 9.669
+
+04/17 07:25:18   test eval: loss 32.06
+
+04/17 07:27:54 test avg_score=0.3578
+
+04/17 07:51:00 step 132000 epoch 38 learning rate 0.345 step-time 0.691 loss 9.837
+
+04/17 07:51:44   test eval: loss 30.51
+
+04/17 07:54:19 test avg_score=0.3695
+
+04/17 08:17:21 step 134000 epoch 39 learning rate 0.341 step-time 0.689 loss 9.286
+
+04/17 08:18:05   test eval: loss 31.17
+
+04/17 08:20:41 test avg_score=0.3707
+
+04/17 08:43:50 step 136000 epoch 40 learning rate 0.338 step-time 0.692 loss 9.673
+
+04/17 08:44:33   test eval: loss 31.87
+
+04/17 08:47:09 test avg_score=0.3712
+
+04/17 09:10:19 step 138000 epoch 40 learning rate 0.338 step-time 0.693 loss 9.103
+
+04/17 09:11:03   test eval: loss 31.56
+
+04/17 09:13:39 test avg_score=0.3706
+
+04/17 09:36:49 step 140000 epoch 41 learning rate 0.334 step-time 0.693 loss 9.277
+
+04/17 09:37:33   test eval: loss 32.14
+
+04/17 09:40:08 test avg_score=0.3704
+
+04/17 10:03:14 step 142000 epoch 41 learning rate 0.334 step-time 0.691 loss 9.151
+
+04/17 10:03:58   test eval: loss 31.52
+
+04/17 10:06:35 test avg_score=0.3703
+
+04/17 10:29:40 step 144000 epoch 42 learning rate 0.331 step-time 0.690 loss 8.898
+
+04/17 10:30:24   test eval: loss 32.11
+
+04/17 10:33:00 test avg_score=0.3734
+
+04/17 10:56:05 step 146000 epoch 42 learning rate 0.331 step-time 0.690 loss 9.141
+
+04/17 10:56:48   test eval: loss 31.76
+
+04/17 10:59:24 test avg_score=0.3735
+
+04/17 11:22:33 step 148000 epoch 43 learning rate 0.328 step-time 0.693 loss 8.617
+
+04/17 11:23:17   test eval: loss 32.25
+
+04/17 11:25:56 test avg_score=0.3704
+
+04/17 11:49:03 step 150000 epoch 44 learning rate 0.325 step-time 0.692 loss 8.939
+
+04/17 11:49:47   test eval: loss 32.85
+
+04/17 11:52:23 test avg_score=0.3752
+
+04/17 12:15:27 step 152000 epoch 44 learning rate 0.325 step-time 0.690 loss 8.475
+
+04/17 12:16:10   test eval: loss 32.15
+
+04/17 12:18:46 test avg_score=0.3762
+
+04/17 12:42:00 step 154000 epoch 45 learning rate 0.321 step-time 0.695 loss 8.593
+
+04/17 12:42:43   test eval: loss 33.25
+
+04/17 12:45:20 test avg_score=0.3744
+
+04/17 13:08:44 step 156000 epoch 45 learning rate 0.321 step-time 0.700 loss 8.535
+
+04/17 13:09:28   test eval: loss 32.48
+
+04/17 13:12:03 test avg_score=0.3761
+
+04/17 13:35:25 step 158000 epoch 46 learning rate 0.318 step-time 0.699 loss 8.252
+
+04/17 13:36:08   test eval: loss 33.20
+
+04/17 13:38:44 test avg_score=0.3759
+
+04/17 14:02:09 step 160000 epoch 46 learning rate 0.318 step-time 0.701 loss 8.537
+
+04/17 14:02:53   test eval: loss 32.63
+
+04/17 14:05:29 test avg_score=0.3774
+
+04/17 14:28:51 step 162000 epoch 47 learning rate 0.315 step-time 0.699 loss 7.989
+
+04/17 14:29:35   test eval: loss 33.62
+
+04/17 14:32:11 test avg_score=0.3757
+
+04/17 14:55:39 step 164000 epoch 48 learning rate 0.312 step-time 0.702 loss 8.337
+
+04/17 14:56:29   test eval: loss 33.45
+
+04/17 14:59:22 test avg_score=0.3792
+
+04/17 15:25:05 step 166000 epoch 48 learning rate 0.312 step-time 0.769 loss 7.949
+
+04/17 15:25:52   test eval: loss 33.03
+
+04/17 15:28:42 test avg_score=0.3831
+
+04/17 15:54:11 step 168000 epoch 49 learning rate 0.309 step-time 0.762 loss 8.015
+
+04/17 15:54:58   test eval: loss 33.86
+
+04/17 15:57:47 test avg_score=0.3803
+
+04/17 16:23:19 step 170000 epoch 49 learning rate 0.309 step-time 0.764 loss 7.981
+
+04/17 16:24:07   test eval: loss 33.20
+
+04/17 16:26:56 test avg_score=0.3794
+
+04/17 16:52:25 step 172000 epoch 50 learning rate 0.306 step-time 0.763 loss 7.767
+
+04/17 16:53:13   test eval: loss 34.51
+
+04/17 16:56:05 test avg_score=0.3775
+
+04/17 17:21:21 step 174000 epoch 50 learning rate 0.306 step-time 0.756 loss 7.984
+
+04/17 17:22:08   test eval: loss 33.54
+
+04/17 17:24:54 test avg_score=0.3848
+
